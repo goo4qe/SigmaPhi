@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sigma Phi - Your Source for Fact-Based News</title>
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway:100,200,600,700" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+  <nav class="navigation">
+    <ul>
+      <li>Local</li>
+      <li>National</li>
+      <li class="logo">Sigma Phi Society</li>
+      <li>Global</li>
+      <li>Join</li>
+      <li class="donate">Donate</li>
+    </ul>
+  </nav>
+
+  <div id="banner">
+    <div class="content">
+      <h1></h1>
+    </div>
+  </div>
+
+  <div id="main" class="content">
+    <h3>The Sigma Phi Society was founded on the Fourth of March in the year 1827, on the campus of Union College as a part of the Union Triad in Schenectady, New York.</h3>
+    <span class="byline">Written By: Godwin Oluwafemi</span>
+    <p>Sigma Phi is the second oldest Greek-letter fraternity in the country and the oldest in continual existence, founded at Union College on the Fourth of March in 1827 by Thomas F. and John T. Bowie (from Upper Marlboro, Md.), T.S. Witherspoon (from Greensboro, Ala.), and Charles T. Cromwell (from Mosquito Cove, N.Y.). Shortly thereafter, these founders widened their circle and admitted a select group of their fellow students who had similar qualities of good mind, lofty character, and cordial manners. They determined to make themselves not just a short-lived group of happy young men, but a Society dedicated to relationships that would last beyond college and throughout life. Over the last two centuries, 10,000 men have followed their example of fraternal leadership.
+
+</p>
+
+    <p>The Alpha of Virginia is one of 10 active chapters of the Sigma Phi Society, stretching nationally from Burlington, Vt. to Chapel Hill, N.C., and from the Hudson River to the Pacific Ocean. The second-oldest Greek-letter fraternal organization in the United States, and the oldest in continuous existence, the Sigma Phi Society has fueled the bonds of friendship among its brothers for nearly 200 years.</p>
+
+    <div class="pull-quote">
+      <h2>"Esto Perpetua" - A Sig Motto</h2>
+    </div>
+
+    <p>Time spent at the University is when a young man’s character becomes fully formed. While college life provides ample opportunity for academic and athletic achievement, often the core values that make for strong character are lost in the circumstances of the modern university. Our founders, realizing this deficiency, established our Society based on essential social values that could never be conveyed in a classroom.</p>
+
+    <p>Prospective members, please email rush@sigmaphiuva.org with questions.
+
+<p> General queries can be directed to info@sigmaphiuva.org.</p>
+
+</p>
+  </div>
+
+  <div class="share">
